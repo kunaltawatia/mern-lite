@@ -1,0 +1,3 @@
+# mern-lite
+
+boilerplate
